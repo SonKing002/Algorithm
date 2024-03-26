@@ -1,0 +1,14 @@
+C:\Users\son\Documents\Github\Algorithm\BubleSort\bin\Debug\net8.0\BubleSort.exe
+C:\Users\son\Documents\Github\Algorithm\BubleSort\bin\Debug\net8.0\BubleSort.deps.json
+C:\Users\son\Documents\Github\Algorithm\BubleSort\bin\Debug\net8.0\BubleSort.runtimeconfig.json
+C:\Users\son\Documents\Github\Algorithm\BubleSort\bin\Debug\net8.0\BubleSort.dll
+C:\Users\son\Documents\Github\Algorithm\BubleSort\bin\Debug\net8.0\BubleSort.pdb
+C:\Users\son\Documents\Github\Algorithm\BubleSort\obj\Debug\net8.0\BubleSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\son\Documents\Github\Algorithm\BubleSort\obj\Debug\net8.0\BubleSort.AssemblyInfoInputs.cache
+C:\Users\son\Documents\Github\Algorithm\BubleSort\obj\Debug\net8.0\BubleSort.AssemblyInfo.cs
+C:\Users\son\Documents\Github\Algorithm\BubleSort\obj\Debug\net8.0\BubleSort.csproj.CoreCompileInputs.cache
+C:\Users\son\Documents\Github\Algorithm\BubleSort\obj\Debug\net8.0\BubleSort.dll
+C:\Users\son\Documents\Github\Algorithm\BubleSort\obj\Debug\net8.0\refint\BubleSort.dll
+C:\Users\son\Documents\Github\Algorithm\BubleSort\obj\Debug\net8.0\BubleSort.pdb
+C:\Users\son\Documents\Github\Algorithm\BubleSort\obj\Debug\net8.0\BubleSort.genruntimeconfig.cache
+C:\Users\son\Documents\Github\Algorithm\BubleSort\obj\Debug\net8.0\ref\BubleSort.dll
