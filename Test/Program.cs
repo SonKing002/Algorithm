@@ -9,7 +9,7 @@
             Console.WriteLine($"정렬 전 {string.Join(",", arr)}");
             Console.ReadKey();
 
-            BubleSorting(arr);
+            BubleSort(arr);
             Console.WriteLine("\n");
             Console.ReadKey();
 
@@ -55,7 +55,6 @@
                 return;
             }
 
-            int max = 0;
             for (int i = 0; i < arr.Length-1; i++)
             {
                 for (int j = 0; j < arr.Length-1-i; j++)
@@ -88,7 +87,7 @@
                 {
                     if (arr[j] > arr[j + 1] == true)
                     { 
-                        Swap(ref arr[i], ref arr[j +1]);
+                        Swap(ref arr[j], ref arr[j +1]);
                     }
                 }
             }
@@ -165,7 +164,7 @@
                 for(int j = i; j > 0; j--) 
                 {
                     //왼쪽의 값이 크면 값 바꾸기
-                    if (arr[j] > keyValue)
+                    if (arr[j-1] > keyValue)
                     {
                         arr[j] = arr[j - 1];
                         arr[j - 1] = keyValue;
